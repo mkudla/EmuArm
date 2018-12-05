@@ -1,0 +1,5 @@
+mov 1 10
+mov 2 366
+mul 1 2 3
+mov 4 255
+shl 4 2
