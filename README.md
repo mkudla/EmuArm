@@ -6,7 +6,8 @@ Also the commands are arm-like.
 I implemented it with the thought of programing my own, more exotic bit operations and checking if they can be useful for something.
 You can think about commands "count leading zeros" or "count bits set to 1" as examples of recently introduced binary operations that proved to be useful, but have not been widely implemented before.
 
-![Screenshot](https://www.github.com/mkudla/EmuArm/program.png)
+![Screenshot](https://github.com/mkudla/EmuArm/blob/master/program.png)
+
 
 ## To compile:
 
